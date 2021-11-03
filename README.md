@@ -1,11 +1,10 @@
- TemporaryRepo
-<<<<<<< HEAD
-Some amazing description.
-=======
 Some amazing description.
 
 Kim looooooves Vino!
->>>>>>> 1822b964a1b91b806e4cde77d2f74d754ccfa289
 Hello everyone!
 
 YoLo
+# TemporaryRepo
+
+Kim looooooves Vino!
+Hi.		// This is a friendly greeting. // This is a comment. // This is a comment about a comment about a comment.
